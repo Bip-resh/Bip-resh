@@ -1,0 +1,4 @@
+dic1={"opera":88,"Ovro":94}
+dic2={"hena":84,"Ovro":93}
+print(dic1 | dic2)
+print({**dic1,**dic2})
